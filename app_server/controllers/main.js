@@ -1,6 +1,6 @@
 /* GET homepage */
 const index = (req, res) => {
-    res.render('index', { title: 'Aryan YUvraj 23EG107D05' });
+    res.render('index', { title: 'Lost and found' });
 };
 
 module.exports = {
